@@ -1,0 +1,89 @@
+{
+  "passed": true,
+  "integrity_check": "ok",
+  "actual_by_length": {
+    "4": 96730,
+    "5": 1540880,
+    "6": 22209650
+  },
+  "independent_expected_by_length": {
+    "4": 96730,
+    "5": 1540880,
+    "6": 22209650
+  },
+  "invalid_rows": 0,
+  "stop_matches": 0,
+  "duplicates": "Impossible under UNIQUE(name), checked by integrity_check",
+  "completed_shards": 78,
+  "statistics": {
+    "raw": 321254128,
+    "accepted": 23847260,
+    "forbidden_letter": 159015664,
+    "consonant_run": 132935954,
+    "vowel_run": 5455250,
+    "identical_run": 0,
+    "forbidden_substring": 0,
+    "forbidden_suffix": 0,
+    "stop_match": 0
+  },
+  "verification_seconds": 133.767657995224,
+  "database_bytes": 6091849728,
+  "snapshot": {
+    "dictionaries": [],
+    "engine_version": 1,
+    "rules": {
+      "alphabet": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+      "analysis": {
+        "ambiguous_letters": "CEGHLSUY",
+        "transcription": {
+          "A": "А",
+          "B": "Б",
+          "C": "К",
+          "D": "Д",
+          "E": "Э",
+          "F": "Ф",
+          "G": "Г",
+          "H": "Х",
+          "I": "И",
+          "J": "ДЖ",
+          "K": "К",
+          "L": "Л",
+          "M": "М",
+          "N": "Н",
+          "O": "О",
+          "P": "П",
+          "Q": "К",
+          "R": "Р",
+          "S": "С",
+          "T": "Т",
+          "U": "У",
+          "V": "В",
+          "W": "В",
+          "X": "КС",
+          "Y": "Й",
+          "Z": "З"
+        },
+        "warning_suffixes": []
+      },
+      "forbidden_letters": [
+        "Q",
+        "W",
+        "X",
+        "J"
+      ],
+      "forbidden_substrings": [],
+      "forbidden_suffixes": [],
+      "lengths": [
+        4,
+        5,
+        6
+      ],
+      "max_consecutive_consonants": 2,
+      "max_consecutive_vowels": 2,
+      "max_identical_run": 2,
+      "stop_dictionary_files": [],
+      "vowels": "AEIOU"
+    },
+    "stop_words": []
+  }
+}

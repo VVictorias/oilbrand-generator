@@ -1,0 +1,36 @@
+{
+  "python": "3.14.9",
+  "system": "macOS-26.6.2-arm64-arm-64bit-Mach-O",
+  "architecture": "arm64",
+  "sqlite_python": "3.50.4",
+  "compiler": "Apple clang version 21.0.0 (clang-2100.1.1.101)",
+  "generation_and_indexing_seconds": 110.97351288795471,
+  "shards": [
+    {
+      "length": 4,
+      "raw": 456976,
+      "accepted": 96730
+    },
+    {
+      "length": 5,
+      "raw": 11881376,
+      "accepted": 1540880
+    },
+    {
+      "length": 6,
+      "raw": 308915776,
+      "accepted": 22209650
+    }
+  ],
+  "indexes": [
+    "sqlite_autoindex_candidates_1",
+    "idx_length_name",
+    "idx_first_name",
+    "idx_last_name",
+    "idx_reverse",
+    "idx_structure_name",
+    "idx_vowels_name",
+    "idx_consonants_name"
+  ],
+  "favorites_after_tests": 0
+}

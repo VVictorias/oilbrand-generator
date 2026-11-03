@@ -1,0 +1,6 @@
+{
+  "wall_seconds": 0.34980320899921935,
+  "max_rss_platform_units": 1998848,
+  "rss_unit": "bytes on macOS, KiB on Linux",
+  "scope": "filter traversal only; candidates and indexes are not written"
+}

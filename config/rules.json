@@ -1,0 +1,53 @@
+{
+  "alphabet": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+  "lengths": [
+    4,
+    5,
+    6
+  ],
+  "vowels": "AEIOU",
+  "forbidden_letters": [
+    "Q",
+    "W",
+    "X",
+    "J"
+  ],
+  "max_consecutive_consonants": 2,
+  "max_consecutive_vowels": 2,
+  "max_identical_run": 2,
+  "forbidden_substrings": [],
+  "forbidden_suffixes": [],
+  "stop_dictionary_files": [],
+  "analysis": {
+    "warning_suffixes": [],
+    "ambiguous_letters": "CEGHLSUY",
+    "transcription": {
+      "A": "А",
+      "B": "Б",
+      "C": "К",
+      "D": "Д",
+      "E": "Э",
+      "F": "Ф",
+      "G": "Г",
+      "H": "Х",
+      "I": "И",
+      "J": "ДЖ",
+      "K": "К",
+      "L": "Л",
+      "M": "М",
+      "N": "Н",
+      "O": "О",
+      "P": "П",
+      "Q": "К",
+      "R": "Р",
+      "S": "С",
+      "T": "Т",
+      "U": "У",
+      "V": "В",
+      "W": "В",
+      "X": "КС",
+      "Y": "Й",
+      "Z": "З"
+    }
+  }
+}

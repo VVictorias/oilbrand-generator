@@ -1,0 +1,14 @@
+test_all_26_letters_length_four (test_project.ProjectTests.test_all_26_letters_length_four) ... ok
+test_atomic_resume_after_failed_shard (test_project.ProjectTests.test_atomic_resume_after_failed_shard) ... ok
+test_changed_config_refused (test_project.ProjectTests.test_changed_config_refused) ... ok
+test_every_filter_independently_and_combined (test_project.ProjectTests.test_every_filter_independently_and_combined) ... ok
+test_exact_stop_dictionary_normalization_and_snapshot (test_project.ProjectTests.test_exact_stop_dictionary_normalization_and_snapshot) ... ok
+test_filter_combinations_keyset_sort_and_split_export (test_project.ProjectTests.test_filter_combinations_keyset_sort_and_split_export) ... ok
+test_invalid_config_rejected (test_project.ProjectTests.test_invalid_config_rejected) ... ok
+test_soft_flags_do_not_remove_anything (test_project.ProjectTests.test_soft_flags_do_not_remove_anything) ... ok
+test_unsafe_sort_rejected_and_search_is_literal (test_project.ProjectTests.test_unsafe_sort_rejected_and_search_is_literal) ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.691s
+
+OK

@@ -1,0 +1,26 @@
+{
+  "passed": true,
+  "checks": [
+    "status",
+    "combined_filters",
+    "cursor_pages",
+    "exact_search",
+    "literal_sql_input",
+    "substring_suffix_counts",
+    "favorites_persist_and_restore",
+    "csrf_token",
+    "async_export",
+    "split_csv_download"
+  ],
+  "timings_seconds": {
+    "/": 0.004197874994133599,
+    "/api/status": 0.00087795800936874,
+    "/api/search": 0.0008493339992128313,
+    "/api/favorite": 0.0007543749961769208,
+    "/api/export": 0.0003480420127743855,
+    "/api/job": 0.000582417007535696,
+    "/download/54be30bdf3f0473095014de19fe099fc/candidates_00001.csv": 0.0005102909926790744,
+    "/download/54be30bdf3f0473095014de19fe099fc/candidates_00002.csv": 0.0003820410056505352
+  },
+  "export_job": "54be30bdf3f0473095014de19fe099fc"
+}
